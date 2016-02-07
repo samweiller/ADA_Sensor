@@ -1,5 +1,5 @@
 {
-  "name": "Adafruit_MMA8451",
+  "name": "Adafruit_Sensor",
   "author": "Joe Goggins <joe@spark.io>",
   "license": "MIT",
   "version": "0.0.10",
